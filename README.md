@@ -1,10 +1,12 @@
 # 3D-scanner-table
-Shared space to improve design of the 3D scanner table
+Shared space to improve design of the 3D scanner table.
 
 ## This repo
 
 src/ will hold the code
 plans/ will hold the plans for construction and cables
+
+Uses issues to provide feedback and issues.
 
 ## Plans
 
