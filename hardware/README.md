@@ -22,5 +22,7 @@
 * Rotary encoder for stepped manual rotation
 * Display
 
+## Possible 3d printed resources
+https://github.com/matst80/3D-scanner-table.git
 
 
